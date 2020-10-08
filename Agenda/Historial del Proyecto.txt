@@ -1,4 +1,6 @@
 07/10/20 Creación de la agenda e informe
 07/10/20 Creación del Proyecto de Operaciones con Matrices
 07/10/20 Implementación de los Métodos a usar
+07/10/20 Creacion del metodo func1 que suma vectores
+07/10/20 Creacion del metodo func2 que multiplica matrices
 
