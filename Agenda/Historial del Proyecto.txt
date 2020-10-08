@@ -1,0 +1,4 @@
+07/10/20 Creación de la agenda e informe
+07/10/20 Creación del Proyecto de Operaciones con Matrices
+07/10/20 Implementación de los Métodos a usar
+
