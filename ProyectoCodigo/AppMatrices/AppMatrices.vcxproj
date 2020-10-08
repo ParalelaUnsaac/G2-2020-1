@@ -149,12 +149,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AppMatrices.cpp" />
-    <ClCompile Include="Func1.cpp" />
+    <ClCompile Include="Func3.cpp" />
     <ClCompile Include="Func2.cpp" />
+    <ClCompile Include="Func4.cpp" />
     <ClCompile Include="Metodos.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Func1.h" />
+    <ClInclude Include="Func3.h" />
     <ClInclude Include="Func2.h" />
     <ClInclude Include="Metodos.h" />
   </ItemGroup>

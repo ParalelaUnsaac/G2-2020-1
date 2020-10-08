@@ -21,10 +21,13 @@
     <ClCompile Include="Metodos.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="Func1.cpp">
+    <ClCompile Include="Func2.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="Func2.cpp">
+    <ClCompile Include="Func3.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Func4.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,10 +35,10 @@
     <ClInclude Include="Metodos.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="Func1.h">
+    <ClInclude Include="Func2.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="Func2.h">
+    <ClInclude Include="Func3.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
