@@ -149,9 +149,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AppMatrices.cpp" />
-    <ClCompile Include="Func3.cpp" />
-    <ClCompile Include="Func2.cpp" />
-    <ClCompile Include="Func4.cpp" />
+    <ClCompile Include="Modulo_sumar_vectores.cpp" />
+    <ClCompile Include="Modulo_multipliaciondeMatrices.cpp" />
+    <ClCompile Include="Modulo_Transpuesta_Matrix.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Metodos.cpp" />
   </ItemGroup>

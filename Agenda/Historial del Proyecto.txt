@@ -4,3 +4,4 @@
 07/10/20 Creacion del metodo func3 que suma vectores
 07/10/20 Creacion del metodo func2 que multiplica matrices
 07/10/20 Creacion del metodo func4 que transpuesta de matrices
+20/10/20 modificacion del los nombres de los modulos 
