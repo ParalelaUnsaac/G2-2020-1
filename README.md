@@ -13,11 +13,14 @@
 - Elegimos un programa y lo ejecutamos en google colaboratory
 
 #### Autores:✒️
-- Chunga Castillo Gary Brigham - GitHub Account - [GaryBrighamBuho](https://github.com/GaryBrighamBuho)
-- Villasante Leon Amaru - GitHub Account - [AmaruVL](https://github.com/AmaruVL)
-- Puma Sotomayor Richard Mihaylov - GitHub Account - [Richard3971](https://github.com/Richard3971)
-- Lazo Mendoza Jeremy Axl - GitHub Account - [Jeremylazm](https://github.com/Jeremylazm)
-
+- **Chunga Castillo Gary Brigham** - GitHub Account - [GaryBrighamBuho](https://github.com/GaryBrighamBuho)
+- **Villasante Leon Amaru** - GitHub Account - [AmaruVL](https://github.com/AmaruVL)
+- **Puma Sotomayor Richard Mihaylov** - GitHub Account - [Richard3971](https://github.com/Richard3971)
+- **Lazo Mendoza Jeremy Axl** - GitHub Account - [Jeremylazm](https://github.com/Jeremylazm)
+- **Marko Leugim Cordova Castro** - GitHub Account - [MarkoD99](https://github.com/MarkoD99)
+- **Jhon Albert Ccuito Quispe** - GitHub Account - [jhonjacc](https://github.com/jhonjacc)
+- **Yeni Ruth Porroa Sivana** - GitHub Account - [porroayeni](https://github.com/porroayeni)
+- **Leonardo Chepper Pumacahua Apaza** - GitHub Account - [ChepperK0](https://github.com/ChepperK0)
 ---
 ## Empezamos... 🚀
 
@@ -27,13 +30,21 @@
 
 - Lenguaje: [C](http://www.mingw.org/)
 - Servicio Cloud: [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
-- Diagrama de componentes:
+- Diagrama de colaboración: [Calculadora de Matrices Umbrello UML Modeller](https://umbrello.kde.org/)
+- Diagrama de componentes:[Visual Paradigm Online Diagrams Express Edition](https://online.visual-paradigm.com/diagrams/solutions/free-visual-paradigm-online/)
 - Editor: [Visual Studio](https://visualstudio.microsoft.com/es/)
 
 ## Codificacion del programa 📄
-
+[CalculadoradeMatrices.ipynb](https://colab.research.google.com/github/ParalelaUnsaac/G2-2020-1/blob/main/CalculadoradeMatrices.ipynb)
 
 ## Despliegue 📦
+    ´
+    !gcc -o file -fopenmp code.c
+    text_file = open("code.c", "w")
+    text_file.write(code)
+    text_file.close()
+    code=""""""
+    ´
 
 ## Calculadora de Matrices
 Este proyecto lo escogimos porque encontramos los módulos necesarios y modificables y también por los temas de matrices y vectores, ya que nos basamos ampliamente en esos temas, las diferentes operaciones de matrices como algunas de las clases de matrices con vectores
