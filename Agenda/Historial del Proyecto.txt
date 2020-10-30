@@ -8,4 +8,5 @@
 24/10/20 Paralelización del método Transpuesta
 24/10/20 Implementación de los Métodos de Generar Matrices y Vectores; como la Suma de Vectores
 24/10/20 Paralelización de modulos sumar matrices y multiplicar matrices en colab
+26/10/20 Actualización de README
 30/10/20 Agregación de lo requerido según la docente (comparación de tiempos de ejecución, conclusiones y referencia).
