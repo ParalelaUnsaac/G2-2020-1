@@ -35,7 +35,7 @@
 - Editor: [Visual Studio](https://visualstudio.microsoft.com/es/)
 
 ## Codificacion del programa 📄
-[CalculadoradeMatrices.ipynb](https://colab.research.google.com/github/ParalelaUnsaac/G2-2020-1/blob/main/CalculadoradeMatrices.ipynb)
+[CalculadoradeMatrices.ipynb](https://colab.research.google.com/drive/1ZK5iG2HJ9tmVNbmEI0dpoY87qlvMWvb6?usp=sharing)
 
 ## Despliegue 📦
     ´
